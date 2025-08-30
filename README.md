@@ -25,7 +25,6 @@ Safeguarding PoS Consensus: A Comparative Analysis of Proposer Protection Mechan
 
 </details>
 
----
 <details><summary><b>Master's Thesis Survey Article:</b> Preventing Attacks Leveraging the Publicly Known List of Upcoming Proposers in Ethereum</summary>
 
 - `English`
@@ -34,8 +33,6 @@ Safeguarding PoS Consensus: A Comparative Analysis of Proposer Protection Mechan
 including the solution implemented in Algorand and the proposal adapted to Ethereum, select several proposers and choose one of them after their proposals. The anonymity set in these cases corresponds to the validator set, but fork-choice complications are introduced. The proposal for Polkadot is partially implemented on the network layer. It utilizes a construct called ring-VRF, which combines VRF and SNARKs. A solution implemented solely on the network layer, utilizing Dandelion++ and RLN to add a private pre-network, has also been included. Network layer solutions have too high latency based on an existing analysis and also are susceptible to attacks. The last solution is the distributed validators technology, where the obligations of one validator are distributed among several nodes. This solution is complex but increases the costs and requires a new type of client. The paper further describes the principle of each method, their drawbacks and points of further research, the methods are also
 briefly compared based on various properties.
 </details>
-
----
 
 <details>
 <summary>
@@ -49,8 +46,6 @@ consensus of PoS Ethereum. One of the mechanisms that has been proposed to mitig
 a closer look at how the mechanism utilizes auctions. It describes the architecture of the PBS, analyses the blockspace auction of the MEV-Boost implementation and shortly introduces the Order Flow Auctions.
 </details>
 
----
-
 <details>
 <summary>
 <b>Bachelor's Thesis</b>:
@@ -61,8 +56,6 @@ Modeling and Simulation of Incentive Mechanisms in Ethereum
 - [Thesis](https://www.vut.cz/en/students/final-thesis/detail/145085) | [Implementation](https://github.com/terezaburianova/incentive-mechanism-analysis/)
 - **Abstract:** The topic of this thesis is the Ethereum incentive mechanism, in particular the changes introduced in EIP-1559. The aim of the thesis is to investigate the behaviour and propose any potential improvements in case of discovered flaws. The previously used first price auction mechanism required users to choose the incentive arbitrarily, which led to overpaying and high fee volatility. These problems occurred mainly due to higher network utilization after the popularization of projects such as decentralized finance, NFT collections, and the metaverse. The new incentive mechanism introduced the variable block size, which can adapt to the current network usage. Base fee, a value that indicates the minimum fee needed to include the transaction in the block, is then calculated based on the utilization of the previous block, making the fees more predictable. Several simulation experiments were proposed to investigate the typical behaviour and possible weaknesses of the mechanism. Finally, a possible improvement was found, and future research was proposed. The goals of the thesis were achieved, and the results were presented in the thesis.
 </details>
-
----
 
 <details>
 <summary>
