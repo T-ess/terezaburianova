@@ -1,14 +1,14 @@
 # Hi there, I'm Tereza
+I'm a cybersecurity graduate from VUT FIT. This is my GitHub portfolio where you'll find a collection of my projects. My main interests are in blockchain security, mainly Ethereum so far, although I am open to explore new directions. 
+
 `cybersec` `blockchains` `research` `development`
 
-I'm a cybersecurity graduate from VUT FIT. This is my GitHub portfolio where you'll find a collection of my projects. My main interests are in blockchain security, mainly Ethereum so far, although I am open to explore new directions.
-
-# Experience
+## Experience
 During the [cohort four](https://github.com/eth-protocol-fellows/cohort-four) of the Ethereum Protocol Fellowship, I worked on the implementation of Ephemery testnet in [Lighthouse](https://github.com/terezaburianova/lighthouse) and [reth](https://github.com/terezaburianova/reth). I also helped to review, finalize and polish the proposal and the tooling, becoming a co-author of [EIP-6916](https://eips.ethereum.org/EIPS/eip-6916). The project was [presented at Devconnect Istanbul](https://streameth.org/65a90bf27932ebe436ba9348/watch?session=65b8f8cca5b2d09b88ec0f02).
 
 I also worked at SAP Labs Brno as Developer Associate. My tasks included developing and maintaining testing tools and implementing small tasks in ABAP.
 
-# Publications
+## Publications
 *(Click a publication name below to expand and see details.)*
 <details>
 <summary>
@@ -67,9 +67,7 @@ Modeling and Simulation of Incentive Mechanisms in Ethereum
 - **Abstract:** This survey summarizes interesting research regarding relay attacks with focus on the most affected areas - Passive Keyless Entry and Start vehicles, contactless payments and NTLM. Implementations of the attack and possible countermeasures are presented, with one of the most universal measures being distance bounding protocols.
 </details>
 
-&nbsp;
-
-# University Projects
+## University Projects
 *(Click a name or category below to expand and see details.)*
 <details>
 <summary>
