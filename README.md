@@ -1,8 +1,7 @@
 # Hi there, I'm Tereza
 `cybersec` `blockchains` `research` `development`
 
-This is my GitHub portfolio where you'll find a collection of my projects from research and coursework.
-My main interests are in blockchain security, mainly Ethereum so far, although I am open to explore new directions.
+I'm a cybersecurity graduate from VUT FIT. This is my GitHub portfolio where you'll find a collection of my projects. My main interests are in blockchain security, mainly Ethereum so far, although I am open to explore new directions.
 
 # Experience
 During the [cohort four](https://github.com/eth-protocol-fellows/cohort-four) of the Ethereum Protocol Fellowship, I worked on the implementation of Ephemery testnet in [Lighthouse](https://github.com/terezaburianova/lighthouse) and [reth](https://github.com/terezaburianova/reth). I also helped to review, finalize and polish the proposal and the tooling, becoming a co-author of [EIP-6916](https://eips.ethereum.org/EIPS/eip-6916). The project was [presented at Devconnect Istanbul](https://streameth.org/65a90bf27932ebe436ba9348/watch?session=65b8f8cca5b2d09b88ec0f02).
@@ -10,11 +9,12 @@ During the [cohort four](https://github.com/eth-protocol-fellows/cohort-four) of
 I also worked at SAP Labs Brno as Developer Associate. My tasks included developing and maintaining testing tools and implementing small tasks in ABAP.
 
 # Publications
-
-**Master's Thesis**: 
-Safeguarding PoS Consensus: A Comparative Analysis of Proposer Protection Mechanisms Against Various Attack Vectors
+*(Click a publication name below to expand and see details.)*
 <details>
-<summary>See details
+<summary>
+<img alt="Static Badge" src="https://img.shields.io/badge/Featured-08872B">
+<b>Master's Thesis</b>: 
+Safeguarding PoS Consensus: A Comparative Analysis of Proposer Protection Mechanisms Against Various Attack Vectors
 </summary>
 
 - `English` `Rust`
@@ -26,9 +26,7 @@ Safeguarding PoS Consensus: A Comparative Analysis of Proposer Protection Mechan
 </details>
 
 ---
-**Master's Thesis Survey Article:** Preventing Attacks Leveraging the Publicly Known List of Upcoming Proposers in Ethereum
-<details>
-<summary>See details</summary>
+<details><summary><b>Master's Thesis Survey Article:</b> Preventing Attacks Leveraging the Publicly Known List of Upcoming Proposers in Ethereum</summary>
 
 - `English`
 - [Article](https://github.com/terezaburianova/terezaburianova/blob/390d19e9a0acc3fd6d5e9e49d22d01e12ad403d4/publications/DP_survey.pdf)
@@ -38,9 +36,11 @@ briefly compared based on various properties.
 </details>
 
 ---
-**Game Theory Course Project:** How Ethereum Utilizes Auctions to Mitigate Negative MEV Impact
+
 <details>
-<summary>See details</summary>
+<summary>
+<b>Game Theory Course Project:</b> How Ethereum Utilizes Auctions to Mitigate Negative MEV Impact
+</summary>
 
 - `English`
 - [Article](https://github.com/terezaburianova/terezaburianova/blob/38f0a98f03d3632e1cfc295fe191b01e3decdb3f/publications/THE.pdf)
@@ -50,11 +50,11 @@ a closer look at how the mechanism utilizes auctions. It describes the architect
 </details>
 
 ---
-**Bachelor's Thesis**:
-Modeling and Simulation of Incentive Mechanisms in Ethereum
+
 <details>
 <summary>
-See details
+<b>Bachelor's Thesis</b>:
+Modeling and Simulation of Incentive Mechanisms in Ethereum
 </summary>
 
 - `English` `Jupyter Notebook`
@@ -63,10 +63,10 @@ See details
 </details>
 
 ---
-**Relay Attack Survey**
+
 <details>
 <summary>
-See details
+<b>Secure Hardware Devices Course Project:</b> Relay Attack Survey
 </summary>
 
 - `English`
@@ -74,22 +74,10 @@ See details
 - **Abstract:** This survey summarizes interesting research regarding relay attacks with focus on the most affected areas - Passive Keyless Entry and Start vehicles, contactless payments and NTLM. Implementations of the attack and possible countermeasures are presented, with one of the most universal measures being distance bounding protocols.
 </details>
 
----
-**Blockchain Structure**
-<details>
-<summary>
-See details
-</summary>
-
-- `English`
-- [Article](https://github.com/terezaburianova/terezaburianova/blob/38f0a98f03d3632e1cfc295fe191b01e3decdb3f/publications/blockchain_structure.pdf)
-- A short article, derived from the Bachelor's Thesis, describing the main blockchain components and the way they cooperate.
-</details>
-
-
+&nbsp;
 
 # University Projects
-
+*(Click a name or category below to expand and see details.)*
 <details>
 <summary>
 Monitoring of BitTorrent Traffic in LAN
