@@ -109,7 +109,15 @@ Applied Information Security Project
 - An information security project based on a narrative case study that involved uncovering hidden data and solving cryptographic challenges. The project combined practical cryptography, secure communication, and investigative analysis to simulate a real-world security problem.
 </details>
 
+<details>
+<summary>
+Assessment of Retinal Image Quality Based on General Characteristics
+</summary>
 
+- `Czech` `Security` `Biometry`
+- [Repository](https://github.com/terezaburianova/VUT-BIO) | [Documentation](https://github.com/terezaburianova/VUT-BIO/blob/ef082c211e5e3721b4d4240c59c13810f06c6e5d/docs/docs.pdf)
+- The work deals with evaluating the quality of retinal images based on sharpness and illumination. The goal is to implement algorithms that can quantitatively express the quality of images based on various properties, as well as to conduct experiments and analyze the achieved results. The resulting metrics can then be used for further classification of other images, for example using the k-nearest neighbors method or the support vector machine method.
+</details>
 
 <details>
 <summary>
