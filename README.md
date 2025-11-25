@@ -1,8 +1,15 @@
-# Hi there, I'm Tereza
+# Hi, I'm Tereza
 
  `research` `development` `cybersec` `blockchains`
 
-## 📖 Papers and Theses
+## ℹ️ About Me
+- 🎓 I graduated with an M.Sc. in Computer Science from the Brno University of Technology.
+- 💻 My specialization is cybersecurity, but I have broad knowledge and a strong passion for coding.
+- 💹 I’m passionate about blockchain technologies, though I’m also open to roles in other areas, especially FinTech.
+- ❓ I work with Rust and Python lately, I also have some experience with other languages (C, C++, Haskell...), I'm now exploring Java.
+- 💼 I’m open to new roles or simply discussing interesting projects. Feel free to reach out via [email](mailto:tess.burianova@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tereza-burianova/) if you’d like to chat.
+
+## 📖 Research & Writing
 *(Click a publication name below to expand and see details.)*
 <details>
 <summary>
@@ -24,6 +31,16 @@ Safeguarding PoS Consensus: A Comparative Analysis of Proposer Protection Mechan
 - [Thesis](https://www.vut.cz/en/students/final-thesis/detail/164846) | [Implementation](https://github.com/terezaburianova/leader-election-sim) | [Survey Paper](https://github.com/terezaburianova/terezaburianova/blob/390d19e9a0acc3fd6d5e9e49d22d01e12ad403d4/publications/DP_survey.pdf)
 - Presented at [Excel@FIT](https://excel.fit.vutbr.cz/sbornik/) and [ETHPrague](https://ethprague.com/schedule?talk=1207-poster-session), Dean's Award for Excellent Master's Thesis
 - **Abstract:** The thesis deals with proposer protection mechanisms in the Ethereum Proof-of-Stake consensus. The aim is to introduce the principles and possible weaknesses of the consensus mechanism, identify and investigate potential attack vectors targeting proposers, evaluate various proposer protection mechanisms and further investigate two selected mechanisms, Whisk and homomorphic sortition, by simulating their behaviour under different circumstances. For this purpose, a simulation framework was designed and several scenarios were proposed to test the security effectiveness of the mechanisms during the attack. Measurements were conducted to estimate the computational demand of both mechanisms. Finally, the results were discussed, the feasibility of the mechanisms was determined and topics for future research and improvements were suggested.
+</details>
+
+<details>
+<summary>
+<b>Specification</b>: 
+ EIP-6916
+</summary>
+
+ - [Specification](https://eips.ethereum.org/EIPS/eip-6916)
+ - I am a co-author of the “EIP-6916: Automatically Reset Testnet” specification. I analysed protocol-level feasibility and identified discrepancies in relation to integration with the current implementation. I also partially implemented this specification in Rust-based Ethereum clients.
 </details>
 
 <details>
