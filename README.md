@@ -1,8 +1,5 @@
 # Hi, I'm Tereza
 
- `research` `development` `cybersec` `blockchains`
-
-## ℹ️ About Me
 - 🎓 I graduated with an M.Sc. in Computer Science from the Brno University of Technology.
 - 💻 My specialization is cybersecurity, but I have broad knowledge and a strong passion for coding.
 - 💹 I’m passionate about blockchain technologies, though I’m also open to roles in other areas, especially FinTech.
