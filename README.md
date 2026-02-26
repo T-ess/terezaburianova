@@ -4,7 +4,7 @@
 - 💻 My specialization is cybersecurity, but I have broad knowledge and a strong passion for coding.
 - 💹 I’m passionate about blockchain technologies, though I’m also open to roles in other areas, especially FinTech.
 - ❓ I work with Rust and Python lately, I also have some experience with other languages (C, C++, Haskell...), I'm now exploring Java.
-- 💼 I’m open to new roles or simply discussing interesting projects. Feel free to reach out via [email](mailto:tess.burianova@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tereza-burianova/) if you’d like to chat.
+- 💼 I’m open to discuss interesting projects. Feel free to reach out via [email](mailto:tess.burianova@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tereza-burianova/) if you’d like to chat.
 
 ## 📖 Research & Writing
 *(Click a publication name below to expand and see details.)*
